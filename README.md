@@ -5,6 +5,9 @@
 - 📫 How to reach me ...
 
 <!---
-Rumon5/Rumon5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Rumon5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+moving focus. Alternatively, use esc then tabControl + Shift + m to toggle the tab key moving focus. Alternatively, use esc then tab to move to the next interactive element on the page.
+No file chosen
+Attach files by dragging & dropping, selecting or pasting them. to move to the
